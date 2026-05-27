@@ -5,7 +5,7 @@
 ```yaml
 #Describing myself :D
 
-name: Gabriel Magalhães Barros #key-value
+name: Gabriel Magalhães Barros
 
 age: 25
 
