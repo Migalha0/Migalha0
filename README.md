@@ -1,18 +1,100 @@
-## Hi there 👋
+## Hey hey people
 
-<!--
-**Migalha0/Migalha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1280" height="320" alt="banner_final_final" src="https://github.com/user-attachments/assets/5c658566-4221-44bd-9389-c5af785f7168" />
 
-Here are some ideas to get you started:
+```yaml
+#Describing myself :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-qwdqwd test test
-- iqwjdioqwjiod
+name: Gabriel Magalhães Barros #key-value
+
+age: 25
+
+hobbies: 
+  oil and digital painting,
+  fishkeeping,
+  reading,
+
+programming_languages:
+  python: Advanced,
+  javascript: Intermediate,
+  glsl: Beginner,
+  C#: Beginner,
+
+interested_in:
+  game development,
+  shaders,
+  web development,
+  UI/UX,
+  machine learning
+
+Currently learning:
+- OpenGL
+- Rendering pipelines
+- GPU programming
+  
+```
+<div align="center">
+
+## Tech Stack
+
+<table>
+<tr>
+  <td align="center">
+
+  ### Frontend
+
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+  </td>
+  <td align="center">
+
+  ### Graphics / Shaders
+
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" />
+
+  </td>
+  <td align="center">
+
+  ### Versioning
+
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    
+  ### Backend
+
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+  </td>
+
+  <td align="center">  
+    
+  ### Python / Data
+
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+
+  </td>
+  <td align="center">
+
+  ### Environment
+
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+    
+  </td>  
+</tr>
+</table>
+</div>
+            
