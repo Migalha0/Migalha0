@@ -28,9 +28,9 @@ interested_in:
   machine learning
 
 Currently learning:
-- OpenGL
-- Rendering pipelines
-- GPU programming
+  OpenGL
+  Rendering pipelines
+  GPU programming
   
 ```
 <div align="center">
